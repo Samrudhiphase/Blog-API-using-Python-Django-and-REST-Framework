@@ -1,22 +1,16 @@
-# Blog-API-using-Python-Django-and-REST-Framework
-A RESTful API for a blog application where users can perform CRUD operations on blog posts. The API should include user authentication and role-based access.
-
 # Blog App
 [![Gitter](https://badges.gitter.im/ExpressHermesOSC/Blog-App.svg)](https://gitter.im/ExpressHermesOSC/Blog-App?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 A blog app built with django api for backend and reactjs for frontend.
 
 ## Requirements
-### For Frontend
+### For backend
 - Python
 - Django
-- reactjs
-Javascript 
+
 ### For backend
 - Yarn
-- PostgreSQL database
-
-
+- z
 
 
 ## Frontend
@@ -47,4 +41,11 @@ Javascript
     ```
     git push origin <feature-name>
     ```
+
+- If you see any bug or you have a feature suggestion, create an issue.
+- Start working on an issue only after it has been approved by the maintainer.
+- Wait till the end of the day to get the reply on an issue or review of a PR.
+
+
+
 
