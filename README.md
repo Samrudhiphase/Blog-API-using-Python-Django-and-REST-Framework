@@ -7,7 +7,7 @@ A RESTful API for a blog application where users can perform CRUD operations on 
 A blog app built with django api for backend and reactjs for frontend.
 
 ## Requirements
-### For backend
+### For Frontend
 - Python
 - Django
 - reactjs
