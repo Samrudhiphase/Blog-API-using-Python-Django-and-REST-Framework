@@ -15,7 +15,7 @@ Javascript
 ### For backend
 - Yarn
 - PostgreSQL database
-  Django
+
 
 
 
