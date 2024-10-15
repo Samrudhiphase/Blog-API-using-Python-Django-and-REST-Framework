@@ -4,7 +4,7 @@
 A blog app built with django api for backend and reactjs for frontend.
 
 ## Requirements
-### For backend
+### For frontend
 - Python
 - Django
 
